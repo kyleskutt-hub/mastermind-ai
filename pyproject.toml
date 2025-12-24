@@ -1,4 +1,4 @@
-﻿[project]
+[project]
 name = "mastermind-ai"
 version = "0.1.0"
 description = "RL environment and agent for Mastermind"
